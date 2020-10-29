@@ -20,6 +20,7 @@ namespace 反序列化
                Person p   =(Person) bf.Deserialize(fsReader);   //调用反序列化方法   ,返回object类,强转为person子类赋值给p对象
                 Console.WriteLine("{0}\t{1}\t{2}\t",p.Age,p.Name,p.Gender);  //验证反序列化是否可行
                 Console.ReadKey();
+
             }
         }
     }
