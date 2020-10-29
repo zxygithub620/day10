@@ -16,6 +16,12 @@ namespace test
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
+            
+            Console.ReadKey();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
