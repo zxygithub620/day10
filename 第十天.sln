@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口", "接口\接口.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口小练习", "接口小练习\接口小练习.csproj", "{2FA71B52-7B36-47C3-BAF5-2AF8F7F86E86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{F44C8497-35EA-437E-836B-60F10E746FA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2FA71B52-7B36-47C3-BAF5-2AF8F7F86E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FA71B52-7B36-47C3-BAF5-2AF8F7F86E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FA71B52-7B36-47C3-BAF5-2AF8F7F86E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44C8497-35EA-437E-836B-60F10E746FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44C8497-35EA-437E-836B-60F10E746FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44C8497-35EA-437E-836B-60F10E746FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44C8497-35EA-437E-836B-60F10E746FA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
