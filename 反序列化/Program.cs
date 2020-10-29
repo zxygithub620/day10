@@ -21,6 +21,7 @@ namespace 反序列化
                 Console.WriteLine("{0}\t{1}\t{2}\t",p.Age,p.Name,p.Gender);  //验证反序列化是否可行
                 Console.ReadKey();
 
+
             }
         }
     }
